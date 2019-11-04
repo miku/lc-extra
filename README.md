@@ -26,7 +26,7 @@ a69ca4063dabf3fae881d891f28221c574eebce3  vm/WinDev1910Eval.ova
 * Windows Subsystem for Linux enabled with Ubuntu installed
 * Developer mode and bash enabled
 
-# Git Use Cases in GLAM
+# Git Use Cases in GLAM and elsewhere
 
 ## Git Use Cases at Leipzig University Library and SLUB
 
