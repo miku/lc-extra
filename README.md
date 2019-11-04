@@ -28,8 +28,22 @@ a69ca4063dabf3fae881d891f28221c574eebce3  vm/WinDev1910Eval.ova
 
 # Python versatility
 
+* most of Python functionality is not only in the language, but in the ecosystem, the libraries that are available
+* many scientific libraries 
+* helpers, data acquisition, data analysis, much more, ...
+* niche things: MARC
+
+A few examples that make use of additional libraries. All these libraries are written in Python.
+
 ## Fetching ISIL data
 
+I wanted to have an offline version of ISIL database.
+
+Question: Do you know how many ISIL are in ISIL-Verzeichnis?
+
+Manual approach: Copy-and-paste, 28h non-stop-copy-paste (if we need 6s per item)
+
+* https://sigel.staatsbibliothek-berlin.de/suche/
 * https://gist.github.com/miku/c73ae7b40a4a18bbf0f751b52d18b082
 * [x/fetch](x/fetch)
 
@@ -38,9 +52,15 @@ a69ca4063dabf3fae881d891f28221c574eebce3  vm/WinDev1910Eval.ova
 * The software community releases software as *open source*, here: a library called [pymarc](https://github.com/edsu/pymarc)
 * [x/mrc](x/mrc)
 
-## Generating Excel files
+## MARC and Excel
 
+Reading MARC and writing Excel.
 
+* [x/mrcxml](x/mrcxml)
+
+## Reading and altering Excel
+
+* [x/readxls](x/readxls)
 
 ## Notebook exploration
 
