@@ -28,6 +28,7 @@ if __name__ == '__main__':
                                    to_unicode=True,
                                    force_utf8=False)
         data = []
+
         for record in reader:
             title = record.title()
             random_date = datetime.date.today() + datetime.timedelta(weeks=random.randint(0, 52))
@@ -38,5 +39,5 @@ if __name__ == '__main__':
             ])
 
     df = pd.DataFrame(data)
-    df.to_excel("output.xlsx")
+    df.to_excel("output.xlsx") # Maybe add header=["Title", "Loca", "Date"]
 
