@@ -7,6 +7,7 @@ Example input file: https://is.gd/QUNyGk
     $ python app.zip catalog.mrc | grep -i london
 """
 
+import datetime
 import pandas as pd
 import pymarc
 import random
@@ -29,7 +30,12 @@ if __name__ == '__main__':
         data = []
         for record in reader:
             title = record.title()
-            data.append([title, random.choice(location)])
+            random_date = datetime.date.today() + datetime.timedelta(weeks=random.randint(0, 52))
+            data.append([
+                title,
+                random.choice(location),
+                str(random_date),
+            ])
 
     df = pd.DataFrame(data)
     df.to_excel("output.xlsx")
