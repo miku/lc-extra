@@ -26,6 +26,30 @@ a69ca4063dabf3fae881d891f28221c574eebce3  vm/WinDev1910Eval.ova
 * Windows Subsystem for Linux enabled with Ubuntu installed
 * Developer mode and bash enabled
 
+# Python versatility
+
+## Fetching ISIL data
+
+* https://gist.github.com/miku/c73ae7b40a4a18bbf0f751b52d18b082
+* [x/fetch](x/fetch)
+
+## Working with MARC
+
+* The software community releases software as *open source*, here: a library called [pymarc](https://github.com/edsu/pymarc)
+* [x/mrc](x/mrc)
+
+## Generating Excel files
+
+
+
+## Notebook exploration
+
+* [Working with CSV](https://github.com/miku/sundaypython/blob/master/notebooks/04%20Working%20with%20CSV.ipynb)
+
+## Notebooks and Python work well together
+
+* https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
 # Git Use Cases in GLAM and elsewhere
 
 ## Git Use Cases at Leipzig University Library and SLUB
