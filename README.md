@@ -49,6 +49,10 @@ Manual approach: Copy-and-paste, 28h non-stop-copy-paste (if we need 6s per item
 
 ## Working with MARC
 
+A strange request.
+
+![](static/marcemail.png)
+
 * The software community releases software as *open source*, here: a library called [pymarc](https://github.com/edsu/pymarc)
 * [x/mrc](x/mrc)
 
