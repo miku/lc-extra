@@ -114,8 +114,10 @@ $ git pull
 
 ## 04 Review
 
+[...]
+
 ## 05 GitHub Pages
 
-
+[...]
 
 
