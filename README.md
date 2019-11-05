@@ -29,7 +29,7 @@ a69ca4063dabf3fae881d891f28221c574eebce3  vm/WinDev1910Eval.ova
 # Python versatility
 
 * most of Python functionality is not only in the language, but in the ecosystem, the libraries that are available
-* many scientific libraries 
+* many scientific libraries
 * helpers, data acquisition, data analysis, much more, ...
 * niche things: MARC
 
@@ -89,6 +89,9 @@ Reading MARC and writing Excel.
   (LaTeX) or [presentations](https://github.com/miku/siskin/blob/master/docs/ai-overview/slides.md), Jupyter Notebooks, e.g. [Coding da Vinci Input Session](https://github.com/miku/sundaypython), [CSV example](https://github.com/miku/sundaypython/blob/master/notebooks/04%20Working%20with%20CSV.ipynb), Community, e.g. [BibsOnGitHub](https://github.com/hbunke/BibsOnGitHub), [code4lib](https://github.com/topics/code4lib), ...
 * Larger library projects, e.g. [Open Library](https://github.com/internetarchive/openlibrary), [FOLIO](https://github.com/folio-org), ...
 * [List of Tools and Project](https://github.com/ubleipzig/awesome-library), [RSE](https://github.com/ubleipzig/awesome-rse), [Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis), ...
+* Open Educational Resources, [Gallery of
+  notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks),
+  [Seminarmaterialien](https://github.com/felixlohmeier/seminar-wir-bauen-uns-einen-bibliothekskatalog), ...
 * Different things: [Gesetze des
   Bundestags](https://github.com/bundestag/gesetze),
   [GCHQ](https://github.com/gchq),
