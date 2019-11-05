@@ -98,6 +98,10 @@ Reading MARC and writing Excel.
   [NSA](https://github.com/NationalSecurityAgency/enigma-simulator), initiatives
   and protests, e.g. [996.icu](https://github.com/996icu/996.ICU), ...
 
+# A Git and GitHub collaborative workflow
+
+Details are explained in the test-repo at [https://github.com/miku/carptest](https://github.com/miku/carptest).
+
 # Git installation on Windows 10
 
 * Version used: [Git-2.23.0-32-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-32-bit.exe)
