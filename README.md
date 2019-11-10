@@ -5,7 +5,7 @@ workshop, prepared for [2019-11-04 Workshop](https://ubleipzig.github.io/2019-11
 
 # Introductory slides for 2019-11-04
 
-* [Slides](https://docs.google.com/presentation/d/1ifZE-cZSrZQICVZQWfzcvVdsUhnS0uOgtCdxnpJO3a0/edit#slide=id.p)
+* [Slides](https://docs.google.com/presentation/d/1ifZE-cZSrZQICVZQWfzcvVdsUhnS0uOgtCdxnpJO3a0/edit#slide=id.p), [PDF](Library_Carpentry_Leipzig_2019-11-04_Introduction.pdf)
 
 # A Microsoft Windows (TM) Virtual Machine
 
