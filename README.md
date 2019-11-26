@@ -74,6 +74,11 @@ Reading MARC and writing Excel.
 
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
+# Past workshops
+
+* Generate a map from json, via [geopandas](http://geopandas.org/)
+* https://gist.github.com/miku/cfe92fcba7a3f63be8663f31bd3777c0
+
 # Git Use Cases in GLAM and elsewhere
 
 ## Git Use Cases at Leipzig University Library and SLUB
