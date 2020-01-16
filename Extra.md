@@ -6,9 +6,11 @@ To cover:
 
 ## LC git
 
-* 3, [https://librarycarpentry.org/lc-git/03-sharing/index.html](https://librarycarpentry.org/lc-git/03-sharing/index.html)
-* 4, [https://librarycarpentry.org/lc-git/04-review/index.html](https://librarycarpentry.org/lc-git/04-review/index.html)
-* 5, [https://librarycarpentry.org/lc-git/05-github-pages/index.html](https://librarycarpentry.org/lc-git/05-github-pages/index.html)
+Fast forward 2, [Getting Started](https://librarycarpentry.org/lc-git/02-getting-started/index.html)
+
+* 3, [Sharing](https://librarycarpentry.org/lc-git/03-sharing/index.html)
+* 4, [Review](https://librarycarpentry.org/lc-git/04-review/index.html)
+* 5, [GitHub Pages](https://librarycarpentry.org/lc-git/05-github-pages/index.html)
 
 ## URZ offerings
 
@@ -16,7 +18,7 @@ To cover:
 
 Lots of code, points of cooperation
 
-* [solrmarc mappings](https://git.sc.uni-leipzig.de/ubl/finc/index/vufind-5.1)
+* [SOLRMARC mappings](https://git.sc.uni-leipzig.de/ubl/finc/index/vufind-5.1)
 * [review.yml](https://git.sc.uni-leipzig.de/ubl/finc/index/span/commits/master/docs/review.yaml)
 
 ## Static site generators
