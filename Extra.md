@@ -1,8 +1,8 @@
 # Extra
 
 * UBL, 2020-01-16, 14:00-15:30
-
-To cover:
+* Goal: wrapping up the [Git](https://librarycarpentry.org/lc-git/) part of the
+  Library Carpentry workshop at Leipzig University Library in 11/2019.
 
 ## LC git
 
