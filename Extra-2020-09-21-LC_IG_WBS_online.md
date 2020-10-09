@@ -1,5 +1,10 @@
 # Extra 2020-09-21-LC_IG_WBS_online
 
+## Visual tools
+
+* https://onlywei.github.io/explain-git-with-d3/
+* https://agripongit.vincenttunru.com/
+
 ## Git Use Cases in libraries
 
 * Software, [VuFind](https://github.com/vufind-org/vufind)
