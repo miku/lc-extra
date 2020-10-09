@@ -74,3 +74,12 @@ For more questions, the default will be fine. As a nice, open source cross platf
 
 ![](static/Git11Version.png)
 
+----
+
+# 2020-09-21-LC_IG_WBS_online
+
+* Veränderungen von MD
+* "nicht immer mit möglich"
+* GitHub/GitLab
+
+Visual walkthrough, push, pull, fork, merge.
